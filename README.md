@@ -1,19 +1,18 @@
-# Medical Appointments No-Show Analysis
+# Medical Appointments No-Show
 
-This project explores the factors influencing whether patients attend or miss their medical appointments in Brazil.  
-The dataset contains over 100,000 appointment records with features such as patient demographics, health conditions, and appointment details.  
+## Overview  
+This project explores patient appointment data from Brazil to understand the factors influencing whether patients attend their medical appointments. By analyzing demographic details, medical conditions, and SMS reminders, the project uncovers trends that may impact healthcare efficiency.
 
-## Key Questions
-- What percentage of patients miss their appointments?
-- Do factors such as SMS reminders, gender, or age influence no-shows?
-- Which patient groups are most likely to miss?
+## Key Insights  
+- Patients receiving SMS reminders were not always more likely to show up.  
+- Age, chronic diseases (like diabetes or hypertension), and waiting time between scheduling and the appointment date significantly influenced attendance.  
+- Women represented the majority of patients but did not differ greatly in attendance compared to men.  
 
-## Key Findings
-- SMS reminders had **limited impact** on attendance.  
-- Patients with **health conditions (e.g., diabetes, hypertension)** showed higher commitment to attend.  
-- Age played a significant role: younger patients were more likely to miss appointments.  
+## Tools Used  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- Tableau for interactive visualization  
 
-## Links
-- 📂 [Dataset](https://www.kaggle.com/datasets/joniarroba/noshowappointments)  
-- 📓 [Analysis Notebook](https://www.kaggle.com/code/egaoctavina/medical-appiontments-no-show)  
-- 📊 [Interactive Dashboard](https://public.tableau.com/views/MedicalNo-ShowData/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+## Links  
+- [Dataset](https://www.kaggle.com/datasets/joniarroba/noshowappointments)  
+- [Analysis Notebook](https://www.kaggle.com/code/egaoctavina/medical-appiontments-no-show)  
+- [Visualization Dashboard](https://public.tableau.com/views/MedicalAppointmentsNo-Show/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
