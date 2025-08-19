@@ -20,6 +20,6 @@ This project explores a dataset of over 100k medical appointments in Brazil to u
 ## 🌐 Links
 - 📂 **Dataset** : [source](https://www.kaggle.com/datasets/joniarroba/noshowappointments) <br>  
 - 📓 **Notebook** : [view](https://www.kaggle.com/code/egaoctavina/medical-appiontments-no-show)<br>  
-- 📊**Visualization** : [view](https://public.tableau.com/views/MedicalNo-ShowData/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+- 📊**Visualization** : [view](https://public.tableau.com/views/MedicalAppointmentsNo-Show/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 ---
