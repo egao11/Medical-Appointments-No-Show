@@ -1,25 +1,19 @@
-# Medical Appointment No-Show Analysis
+# Medical Appointments No-Show Analysis
 
-## 📖 Project Overview
-This project explores a dataset of over 100k medical appointments in Brazil to understand **why patients miss their medical appointments**. The analysis focuses on demographics, health conditions, and external factors that may influence attendance.
+This project explores the factors influencing whether patients attend or miss their medical appointments in Brazil.  
+The dataset contains over 100,000 appointment records with features such as patient demographics, health conditions, and appointment details.  
 
-## 🔍 Key Questions
-- Do gender and age affect no-show rates?  
-- Do health conditions (like diabetes or hypertension) correlate with attendance?  
-- Does the day of the week impact patient reliability?  
+## Key Questions
+- What percentage of patients miss their appointments?
+- Do factors such as SMS reminders, gender, or age influence no-shows?
+- Which patient groups are most likely to miss?
 
-## 🛠️ Tools & Methods
-- **Python (Pandas, Matplotlib, Seaborn)** for data cleaning & exploration  
-- **Tableau** for interactive dashboards and visualization  
+## Key Findings
+- SMS reminders had **limited impact** on attendance.  
+- Patients with **health conditions (e.g., diabetes, hypertension)** showed higher commitment to attend.  
+- Age played a significant role: younger patients were more likely to miss appointments.  
 
-## 📊 Key Insights
-- **Age**: Younger patients tend to skip more appointments.  
-- **Day of Week**: Monday and Saturday show the highest no-show rates.  
-- **Gender**: No significant difference between male and female attendance.  
-
-## 🌐 Links
-- 📂 **Dataset** : [source](https://www.kaggle.com/datasets/joniarroba/noshowappointments) <br>  
-- 📓 **Notebook** : [view](https://www.kaggle.com/code/egaoctavina/medical-appiontments-no-show)<br>  
-- 📊**Visualization** : [view](https://public.tableau.com/views/MedicalAppointmentsNo-Show/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
-
----
+## Links
+- 📂 [Dataset](https://www.kaggle.com/datasets/joniarroba/noshowappointments)  
+- 📓 [Analysis Notebook](https://www.kaggle.com/code/egaoctavina/medical-appiontments-no-show)  
+- 📊 [Interactive Dashboard](https://public.tableau.com/views/MedicalNo-ShowData/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
